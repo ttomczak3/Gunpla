@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Entry Grade RX-78-2 Gundam",
+    "Description": "The Entry Grade RX-78-2 Gundam, based on the anime series Mobile Suit Gundam, is the ultimate introduction item for GunPla. The plastic is color molded requiring no paint, snaps together requiring no glue, uses easy twist off parts requiring no tools, and now doesn't even require stickers for tiny details!  The RX-78-2 Gundam (Full Weapon Set) comes with Beam Rifle, Shield, two Beam Sabers, Hyper Bazooka, Beam Javelin, and Gundam Hammer!",
+    "Price": 10,
+    "PictureUrl": "images/products/entry-grade-rx-78-2-gundam.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "RE/100 1/100 MSN-04 II Nightingale",
+    "Description": "The first release of the brand new Reborn 100 product line is the massive Nightingale from the novel version of Char's Counterattack, Beltrochika's Children. This product line emphasizes detail as deep as recent Master Grade kits but with new injection techniques including parts that are not attached to runners and also wedge gates for easier part removal. Its massive girth has been faithfully recreated allowing the most accurate plastic kit rendition ever created. New add-on parts to customize your GunPla!",
+    "Price": 96,
+    "PictureUrl": "images/products/re-100-1100-msn-04-II-nightingale.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "RG 1/144 #36 Hi-v (Hi-Nu) Gundam",
+    "Description": "From the manga Mobile Suit Gundam: Char's Counterattack - Beltorchika's Children, this Hi-ν Gundam models comes in 1/144 scale and features loads of accessories to create all of your favorite poses!",
+    "Price": 55,
+    "PictureUrl": "images/products/rg-1144-36-hi-v-hi-nu-gundam.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "MGEX 1/100 Strike Freedom Gundam",
+    "Description": "Based on the Gundam Seed Destiny anime, the Strike Freedom Gundam model kit is in 1/100 scale and becomes a fully articulated figure once complete.",
+    "Price": 180,
+    "PictureUrl": "images/products/mgex-1100-strike-freedom-gundam.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "RG 1/144 #32 RX-93 Nu Gundam",
+    "Description": "The final mobile suit used by Amuro Ray featured in Char's Counterattack is available as an RG kit. It includes a multi-link gimmick that allows armor parts to slide simultaneously with the articulation of the leg, as well as armor unfolding gimmick through the body based on a thorough investigation of actual machines, resulting in a product with condensed details unique to RG kits.",
+    "Price": 56,
+    "PictureUrl": "rg-1144-32-rx-93-nu-gundam.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "MG 1/100 Neo Zeon MSN-04 Sazabi (Ver Ka)",
+    "Description": "Based on the Mobile Suit Gundam: Char's Counterattack anime film, the Sazabi model kit is in 1/100 scale and becomes a fully articulated figure once complete. Sazabi comes with 6 funnels, beam rifle, beam tomahawk, beam sabers and shield. Features include sliding panels to reveal the interior mechanical detail, pop open thruster hatches in the legs, a redesigned beam tomahawk incorporating elements from the Sinanju, and LED unit compatibility for the head. ",
+    "Price": 116,
+    "PictureUrl": "images/products/mg-1100-neo-zeon-msn-04-sazabi.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Transformers Furai 28 Arcee Model Kit",
+    "Description": "Arcee joins the Furai model kit line! Once complete this Arcee model kit becomes a fully articulated figure that will be sure to stand out in any Transformers collection!",
+    "Price": 65,
+    "PictureUrl": "images/products/transformers-furai-28-arcee-model-kit.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Transformers Furai 20 Windblade Model Kit",
+    "Description": "This is an modern and shape optimized Windblade version. Good articulation with over 50 movable joints, you are able to set any pose easily. The model kit is made of hard plastic ABS & PS, it will be good for professional model kit users to make their own colored Windblade. Joints are made of soft plastic so it will have a stable movable performance.",
+    "Price": 65,
+    "PictureUrl": "images/products/transformers-furai-20-windblade-model-kit.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "GodHand Ultimate Nipper 5.0 GH-SPN-120",
+    "Description": "For cutting plastic models and gate.",
+    "Price": 64,
+    "PictureUrl": "images/products/godhand-ultimate-nipper-5-gh-spn-120.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "GodHand Blade One Nipper GH-PN-120",
+    "Description": "Precision nippers specially for cutting plastic models.",
+    "Price": 40,
+    "PictureUrl": "images/products/godhand-blade-one-nipper-gh-pn-120.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "TAMIYA Sharp Pointed Side Cutter",
+    "Description": "Suitable for model making: The sharp and pointed blades make it easier to remove smaller plastic parts on the model building kit.",
+    "Price": 26,
+    "PictureUrl": "images/products/tamiya-sharp-pointed-side-cutter.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "TAMIYA TAM74035 Sharp Pointed Side Cutter",
+    "Description": "Sharp Pointed Side Cutter",
+    "Price": 28,
+    "PictureUrl": "images/products/tamiya-tam74035-sharp-pointed-side-cutter.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Tamiya 74098 Modeler s Knife Pro",
+    "Description": "This is the Modeler's Knife Pro from Tamiya.",
+    "Price": 30,
+    "PictureUrl": "images/products/tamiya-74098-modeler-knife-pro.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "GodHand Brushwork PRO Fine Pint Brush GH-EBRSP-GML",
+    "Description": "Design for focusing on painting models!",
+    "Price": 20,
+    "PictureUrl": "images/products/godhand-brushwork-pro-fine-pint-brush-gh-ebrsp-gml.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "GodHand Brushwork PRO Point Brush S GH-EBRSP-MS",
+    "Description": "Design for focusing on painting models!",
+    "Price": 18,
+    "PictureUrl": "images/products/godhand-brushwork-pro-point-brush-s-gh-ebrsp-ms.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Tamiya Modeling Pointed Brush PRO II Ultra Fine TAM87172",
+    "Description": "Tamiya Modeling Pointed Brush PRO II Ultra Fine, TAM87172",
+    "Price": 16,
+    "PictureUrl": "images/products/tamiya-modeling-pointed-brush-pro-II-ultra-fine-tam87172.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "GodHand Glass Cutter Mat GH-GCM-B5-B",
+    "Description": "New feeling! Can cut smoothly and lightly.",
+    "Price": 25,
+    "PictureUrl": "images/products/godhand-glass-cutter-mat.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Tamiya 74076 Cutting Mat A3 Size TAM74076",
+    "Description": "Tamiya 74076 Cutting Mat A3 Size",
+    "Price": 26,
+    "PictureUrl": "images/products/tamiya-74076-cutting-mat-a3-size-tam74076.jpg",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4
+  }
+]
